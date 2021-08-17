@@ -6,6 +6,8 @@ So in general, distinct rectangles that can be formed in N x N chessboard is:
 Sum of the first N natural numbers = N*(N+1)/2
                                    = 8*(8+1)/2
                                    = 36
+                                   
+  Number of squares  in n * n chessboard => n(n+1)(2n+1)/6                           
 */
 
 #include <bits/stdc++.h>
